@@ -6,4 +6,3 @@ import './css/animations.css'
 
 
 createApp(App).mount('#app')
-
