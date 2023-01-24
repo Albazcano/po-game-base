@@ -1,6 +1,6 @@
-module.exports = {
-  preset: '@vue/cli-plugin-unit-jest',
-  transform: {
-    '^.+\\.vue$': 'vue-jest'
-  }
-}
+/** @type {import('jest').Config} */
+const config = {
+  verbose: true,
+};
+
+module.exports = config;
