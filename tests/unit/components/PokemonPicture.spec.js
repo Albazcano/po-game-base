@@ -1,5 +1,5 @@
 import { shallowMount } from '@vue/test-utils'
-import PokemonPicture from '../../../src/components/PokemonPicture.vue'
+import PokemonPicture from '@/components/PokemonPicture'
 
 describe('PokemonPicture component', () => {
     
